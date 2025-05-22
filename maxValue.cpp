@@ -3,7 +3,7 @@
 // Created By: Atri S
 // Date: May 22, 2025
 // Program that generates a random list of random numbers.
-// It then displays the biggest value the in the list. [using a function]
+// It then displays the biggest value in the list. [using a function]
 
 #include <cstdio>
 #include <iostream>
